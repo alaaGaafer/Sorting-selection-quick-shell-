@@ -1,0 +1,16 @@
+number of comparisons is : 10
+Hala Samir
+957693
+3.7
+Hany Ali
+36572
+2.5
+Kamal Mohamed
+46598
+2.2
+Laila Fayed
+4555467
+3.9
+Sara Ahmed
+64387
+3.2
